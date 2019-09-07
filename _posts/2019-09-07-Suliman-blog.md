@@ -6,7 +6,11 @@ title: Data Science Bootcamp, Metis - First Project
 
 During the first week in the Bootcamp, we learned a lot of things in Python and Mr. Trevor and Tony from Metis taught us the data science libraries that we need to use them in the first project such as Pandas, Numpy, Matplotlib, and Seaborn.
 
-The first project was about doing exploratory data analysis (**EDA**) on New York City (**NYC**) subways data that was provided by the  [MTA website](http://web.mta.info/maps/submap.html). Our client Women Tech Women Yes (**WTWY**) is a non-governmental organization (NGO) that needs to send their team to the NYC subway station to invite people to their gala by collecting emails from people and send to them a free ticket to enter their gala at the beginning of the summer. They want from us as a data scientist to provide them the best station, days, and times that they can send their team and collect the maximum amount of emails and invite people to their gala.
+The first project was about doing exploratory data analysis (**EDA**) on New York City (**NYC**) subways data that was provided by the [MTA website](http://web.mta.info/developers/turnstile.html). Our client Women Tech Women Yes (**WTWY**) is a non-governmental organization (NGO) that needs to send their team to the NYC subway station to invite people to their gala by collecting emails from people and send to them a free ticket to enter their gala at the beginning of the summer. They want from us as a data scientist to provide them the best station, days, and times that they can send their team and collect the maximum amount of emails and invite people to their gala.
+
+#### Look at the subway map
+[NYC subway map] (http://web.mta.info/maps/submap.html)
+
 
 ### Project Approach
 
@@ -19,7 +23,7 @@ Firstly, we spend three to five hours to brainstorm, understand what the data re
 
 #### Phase 2:
 
-In this phase, we have followed our steps to analyze the data that we draw in the first phase. Firstly, we asked ourselves since the event is in the beginning of the summer which mean in June, we have determined the analysis period from the first week in May until the first week in June which makes it 5 weeks. Secondly, we have extracted the NYC subway data from the [MTA website](http://web.mta.info/maps/submap.html). Thirdly, we have started to clean the data by deleting the negative values of the count in the entre's turnstile and deleting the unused columns. Lastly, we started to plot the graphs that we need to derive our insight then, we provided the client with our recommendation which contains the best station, days, and times that they can send their team to invite people.
+In this phase, we have followed our steps to analyze the data that we draw in the first phase. Firstly, we asked ourselves since the event is in the beginning of the summer which mean in June, we have determined the analysis period from the first week in May until the first week in June which makes it 5 weeks. Secondly, we have extracted the NYC subway data from the [MTA website](http://web.mta.info/developers/turnstile.html). Thirdly, we have started to clean the data by deleting the negative values of the count in the entre's turnstile and deleting the unused columns. Lastly, we started to plot the graphs that we need to derive our insight then, we provided the client with our recommendation which contains the best station, days, and times that they can send their team to invite people.
 
 
 ### Analysis and Recommendations
