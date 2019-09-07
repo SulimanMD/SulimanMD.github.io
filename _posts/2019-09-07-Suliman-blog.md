@@ -10,7 +10,7 @@ The first project was about doing exploratory data analysis (**EDA**) on New Yor
 
 ### Project Approach
 
-We had two phases to approch our project:
+We had two phases to approach our project:
 
 #### Phase 1: 
 
