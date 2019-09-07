@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 My name is Suliman Mohammed Bin Deri. I am a fresh graduate Electrical Engineer from King Fahd University of Petroleum and Minerals (KFUPM). I am interested in Telecommunication, Data science and artificial intelligence (AI).
