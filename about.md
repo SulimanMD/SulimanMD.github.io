@@ -7,7 +7,7 @@ My name is Suliman Mohammed Bin Deri. I am a fresh graduate Electrical Engineer 
 
 You can reached me on:
 
-* [Linkedin](www.linkedin.com/in/suliman-bin-deri-319702131)
-* [GitHub](https://github.com/SulimanMD)
+* [Linkedin](http://www.linkedin.com/in/suliman-bin-deri-319702131)
+* [GitHub](https://www.github.com/SulimanMD)
 * [Email](suliman-deri@hotmail.com)
 
