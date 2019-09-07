@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects list
+title: List of Projects
 ---
 
 
