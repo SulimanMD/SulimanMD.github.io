@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Suliman M. Bin Deri
-tagline:             A Moderately Okay Data Science Blog
+tagline:             Data Science Blog
 url:                 http://SulimanMD.github.io
 paginate:            2
 baseurl:             ""
@@ -34,5 +34,5 @@ gems:
 # Page List
 pages_list:       
   About Me: '/about'
-  Archive: '/archive'
+  Projects list: '/archive'
   Feed: '/index.html'
