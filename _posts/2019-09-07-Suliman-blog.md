@@ -33,9 +33,9 @@ The below graphs show the average daily inflows and outflows of the five weeks p
 Firstly, we noticed from the first figure above that the best days of the week to send the team are Wednesday, Thursday, and Friday. Secondly, from the second figure above we can clearly see that the top three stations in terms of the volume are 34 ST-PENN STA, GRD CNTRL-42 ST, and 34 ST-HERALD SQ. Lastly, we can see the average daily volume for each day with respect to the time. We noticed that in Friday trend between 5 and 7 there is a garbage data.
 
 Our recommendation:
-|         | Stations           | Day  |
-| ------------- |:-------------:| -----:|
-| Recommended Station     | 34 ST-PENN STA, GRD CNTRL-42 ST, and 34 ST-HERALD SQ |  |
-| Recommended days        |       |   Wednesday, Thursday, and Friday |
+|                         |                  Stations                            |                Day                |
+| ----------------------- |:----------------------------------------------------:| ---------------------------------:|
+| Recommended Station     | 34 ST-PENN STA, GRD CNTRL-42 ST, and 34 ST-HERALD SQ |                                   |
+| Recommended days        |                                                      |   Wednesday, Thursday, and Friday |
 
  
