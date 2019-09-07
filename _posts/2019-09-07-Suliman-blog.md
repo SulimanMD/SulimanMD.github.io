@@ -9,7 +9,7 @@ During the first week in the Bootcamp, we learned a lot of things in Python and 
 The first project was about doing exploratory data analysis (**EDA**) on New York City (**NYC**) subways data that was provided by the [MTA website](http://web.mta.info/developers/turnstile.html). Our client Women Tech Women Yes (**WTWY**) is a non-governmental organization (NGO) that needs to send their team to the NYC subway station to invite people to their gala by collecting emails from people and send to them a free ticket to enter their gala at the beginning of the summer. They want from us as a data scientist to provide them the best station, days, and times that they can send their team and collect the maximum amount of emails and invite people to their gala.
 
 #### Look at the subway map
-[NYC subway map] (http://web.mta.info/maps/submap.html)
+[NYC subway map](http://web.mta.info/maps/submap.html)
 
 
 ### Project Approach
