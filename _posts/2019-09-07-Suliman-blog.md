@@ -34,7 +34,7 @@ Firstly, we noticed from the first figure above that the best days of the week t
 
 Our recommendation:
 
-|                         |                  Stations                            |        Day                        |
+|                         |                  Stations                            | Day                               |
 | ----------------------- |:----------------------------------------------------:| ---------------------------------:|
 | Recommended Station     | 34 ST-PENN STA, GRD CNTRL-42 ST, and 34 ST-HERALD SQ |                                   |
 | Recommended days        |                                                      |   Wednesday, Thursday, and Friday |
