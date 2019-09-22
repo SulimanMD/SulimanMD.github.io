@@ -1,0 +1,24 @@
+Proplem Statement:
+With fluctating in house prices recently in the Kingdom of Saudi Arabia speacially in big cities such as Riyadh, Jeddah, and Dammam. The problem that we want to solve is to help the client to predict the average price of house in any different niebourhood. In my case, I will select only Riyadh for data collection.  
+
+Objective of the project:
+The objective of this project is to learn more about web scraping and build a linear regression module to predict the house pricing in Riyadh depending on asential inputs such as current real steat price, how many beds and bathroms, and the size of house area.
+
+
+Project Approach:
+In this project, I have selected aqar.com since it is papular website in Saudi Arabia that used by saudi citizen. Also, what makes aqar.com very interesting website is that it contains a large number of houses that are in sale and this will help us to build an linear regression model which generate accurate recommendations for the clients. I will devide the work into four phases.
+
+Phase 1 (Data Extracting): 
+I will extract the data from the website using web scraping tools such as BeautifulSoup. Then, I will filter the data that is needed for my prediction algorithim. 
+
+
+Phase 2 (Data Analysis):
+After we extracted the data and removing unnecessary raws and columns. In this phase, I will start to plot the filtered data to visualize it.
+
+Phase 3 (Build the linear regression): 
+After I analyzed the data and visualize it, I should build a linear regression model to predict to the client the average prices of houses in a specific neiborhoud.
+
+Phase 4 (Result and Recommendations):
+In this phase, after I extracted, filtered, and analyzed the data and building my linear regression model, I will provide the client my recommendations and the result based on their need.
+
+ 
