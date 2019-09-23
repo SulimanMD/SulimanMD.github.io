@@ -7,8 +7,8 @@ My name is Suliman Mohammed Bin Deri. I am a fresh graduate Electrical Engineer 
 
 You can reach me on:
 
-* Phone Number: | +966563317152  |  +966583548829
-* Email: | suliman.deri@gmail.com
+* Phone Number: +966563317152 / +966583548829
+* Email: suliman.deri@gmail.com
 * [Linkedin](http://www.linkedin.com/in/suliman-bin-deri-319702131)
 * [GitHub](https://www.github.com/SulimanMD)
 
