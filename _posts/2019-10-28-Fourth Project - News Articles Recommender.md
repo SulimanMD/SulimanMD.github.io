@@ -15,13 +15,4 @@ title: Fourth Project - News Articles Recommender
 <p align="justify"> </p>
 
 
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-p {
-font-size="12";
-}
-</style>
+
